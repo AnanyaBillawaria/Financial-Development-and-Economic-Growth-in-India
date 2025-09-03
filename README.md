@@ -2,8 +2,8 @@
 
 This project explores the **causal relationship between financial development and economic growth in India (1974–2018)** using a multivariate Vector Autoregression (VAR) framework. The analysis evaluates whether financial sector development drives growth, growth drives financial development, or whether the relationship is bidirectional.  
 
-📊 **Type:** Academic Econometrics Project  
-🛠 **Methods:** VAR, Johansen Cointegration, Vector Error Correction Model (VECM), Granger Causality  
+**Type:** Academic Econometrics Project  
+ **Methods:** VAR, Johansen Cointegration, Vector Error Correction Model (VECM), Granger Causality  
 
 ---
 
